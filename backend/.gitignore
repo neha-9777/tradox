@@ -7,7 +7,6 @@ target/
 
 # IDE & Editor Files
 .idea/
-.idea
 *.iml
 .classpath
 .project
