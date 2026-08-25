@@ -1,0 +1,141 @@
+{
+  "profile": {
+    "brokerUserId": "MB-998822",
+    "name": "Alex Trader",
+    "email": "alex@tradox-mock.com",
+    "brokerName": "Mock Broker Inc."
+  },
+  "holdings": [
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries Ltd",
+      "exchange": "NSE",
+      "quantity": 20,
+      "averagePrice": 2450.00,
+      "currentPrice": 2850.00,
+      "assetType": "EQUITY",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services",
+      "exchange": "NSE",
+      "quantity": 15,
+      "averagePrice": 3500.00,
+      "currentPrice": 4100.00,
+      "assetType": "EQUITY",
+      "sector": "Information Technology"
+    },
+    {
+      "symbol": "TATASTEEL",
+      "name": "Tata Steel Ltd",
+      "exchange": "NSE",
+      "quantity": 80,
+      "averagePrice": 150.00,
+      "currentPrice": 110.00,
+      "assetType": "EQUITY",
+      "sector": "Metals & Mining"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank Ltd",
+      "exchange": "NSE",
+      "quantity": 25,
+      "averagePrice": 1550.00,
+      "currentPrice": 1680.00,
+      "assetType": "EQUITY",
+      "sector": "Banking"
+    }
+  ],
+  "positions": [
+    {
+      "symbol": "INFOSYS",
+      "name": "Infosys Limited",
+      "exchange": "NSE",
+      "quantity": 10,
+      "averagePrice": 1400.00,
+      "currentPrice": 1450.00,
+      "assetType": "EQUITY",
+      "sector": "Information Technology"
+    }
+  ],
+  "transactions": [
+    {
+      "externalTxId": "TX-MB-101",
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries Ltd",
+      "exchange": "NSE",
+      "type": "BUY",
+      "quantity": 10,
+      "price": 2400.00,
+      "fee": 15.00,
+      "transactionDate": "2026-08-01T10:00:00"
+    },
+    {
+      "externalTxId": "TX-MB-102",
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries Ltd",
+      "exchange": "NSE",
+      "type": "BUY",
+      "quantity": 10,
+      "price": 2500.00,
+      "fee": 15.00,
+      "transactionDate": "2026-08-05T11:30:00"
+    },
+    {
+      "externalTxId": "TX-MB-103",
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services",
+      "exchange": "NSE",
+      "type": "BUY",
+      "quantity": 20,
+      "price": 3500.00,
+      "fee": 25.00,
+      "transactionDate": "2026-08-02T09:15:00"
+    },
+    {
+      "externalTxId": "TX-MB-104",
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services",
+      "exchange": "NSE",
+      "type": "SELL",
+      "quantity": 5,
+      "price": 3900.00,
+      "fee": 10.00,
+      "transactionDate": "2026-08-10T14:00:00"
+    },
+    {
+      "externalTxId": "TX-MB-105",
+      "symbol": "TATASTEEL",
+      "name": "Tata Steel Ltd",
+      "exchange": "NSE",
+      "type": "BUY",
+      "quantity": 100,
+      "price": 150.00,
+      "fee": 20.00,
+      "transactionDate": "2026-08-03T10:00:00"
+    },
+    {
+      "externalTxId": "TX-MB-106",
+      "symbol": "TATASTEEL",
+      "name": "Tata Steel Ltd",
+      "exchange": "NSE",
+      "type": "SELL",
+      "quantity": 20,
+      "price": 120.00,
+      "fee": 5.00,
+      "transactionDate": "2026-08-12T15:00:00"
+    },
+    {
+      "externalTxId": "TX-MB-107",
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank Ltd",
+      "exchange": "NSE",
+      "type": "BUY",
+      "quantity": 25,
+      "price": 1550.00,
+      "fee": 20.00,
+      "transactionDate": "2026-08-04T12:00:00"
+    }
+  ]
+}

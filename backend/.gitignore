@@ -1,0 +1,13 @@
+# Environment Variables
+.env
+!.env.example
+
+# Maven Build Artifacts
+target/
+
+# IDE & Editor Files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
