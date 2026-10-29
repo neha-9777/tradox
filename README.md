@@ -621,7 +621,7 @@ Users should perform their own research and consult qualified financial professi
 
 **⭐ Star this repo if you found it helpful!**
 
-Made By Md Aabid ❤️ 
+Made By Neha Pathan ❤️ 
 
 </div>
 
